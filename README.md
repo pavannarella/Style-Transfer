@@ -8,7 +8,7 @@ The project includes a Jupyter notebook that provides a step-by-step guide on ho
 
 ## To get started with this project, follow the steps below:
 
-1. Clone the repository to your local machine using git clone https://github.com/HiteshMalla1343/Neural-Style-Transfer.git
+1. Clone the repository to your local machine using git clone (https://github.com/pavannarella/Style-Transfer)
 2. Install the necessary dependencies mentioned below.
 3. Open the Neural_Style_Transfer_VGG16.ipynb Jupyter notebook and follow the instructions to train and use the model.
 
